@@ -1,7 +1,7 @@
 /*
 Data Exploration using COVID-19 information from Jan 2020-Present (May 2022)
 
-Utilized: Joins, conversion of data types (Cast, Convert functions), CTE's, Temp Tables,
+Utilized: Joins, conversion of data types (Cast, Convert functions), CTE's,
 Aggregate Functions, creating views for later data visualization
 
 Data retrieved from Our World in Data, URL = https://ourworldindata.org/covid-deaths
